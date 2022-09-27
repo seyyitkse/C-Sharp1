@@ -1,0 +1,17 @@
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\bin\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).exe
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\bin\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).deps.json
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\bin\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).runtimeconfig.json
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\bin\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).dll
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\bin\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).pdb
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).csproj.AssemblyReference.cache
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\_19_Karar_Yapıları_Sinav_Uygulamasi_.Form1.resources
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).csproj.GenerateResource.cache
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).AssemblyInfoInputs.cache
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).AssemblyInfo.cs
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).csproj.CoreCompileInputs.cache
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).dll
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\refint\19-Karar_Yapıları(Sinav_Uygulamasi).dll
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).pdb
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\19-Karar_Yapıları(Sinav_Uygulamasi).genruntimeconfig.cache
+D:\Udemy C#\19-Karar_Yapıları(Sinav_Uygulamasi)\19-Karar_Yapıları(Sinav_Uygulamasi)\obj\Debug\net6.0-windows\ref\19-Karar_Yapıları(Sinav_Uygulamasi).dll

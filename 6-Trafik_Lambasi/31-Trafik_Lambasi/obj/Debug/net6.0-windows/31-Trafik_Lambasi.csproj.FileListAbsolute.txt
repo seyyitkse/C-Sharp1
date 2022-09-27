@@ -1,0 +1,17 @@
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\bin\Debug\net6.0-windows\31-Trafik_Lambasi.exe
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\bin\Debug\net6.0-windows\31-Trafik_Lambasi.deps.json
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\bin\Debug\net6.0-windows\31-Trafik_Lambasi.runtimeconfig.json
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\bin\Debug\net6.0-windows\31-Trafik_Lambasi.dll
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\bin\Debug\net6.0-windows\31-Trafik_Lambasi.pdb
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.csproj.AssemblyReference.cache
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\_31_Trafik_Lambasi.Form1.resources
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.csproj.GenerateResource.cache
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.AssemblyInfoInputs.cache
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.AssemblyInfo.cs
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.csproj.CoreCompileInputs.cache
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.dll
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\refint\31-Trafik_Lambasi.dll
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.pdb
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\31-Trafik_Lambasi.genruntimeconfig.cache
+D:\Udemy C#\31-Trafik_Lambasi\31-Trafik_Lambasi\obj\Debug\net6.0-windows\ref\31-Trafik_Lambasi.dll

@@ -1,0 +1,17 @@
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\bin\Debug\net6.0-windows\32-Kronometre1.exe
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\bin\Debug\net6.0-windows\32-Kronometre1.deps.json
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\bin\Debug\net6.0-windows\32-Kronometre1.runtimeconfig.json
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\bin\Debug\net6.0-windows\32-Kronometre1.dll
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\bin\Debug\net6.0-windows\32-Kronometre1.pdb
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.csproj.AssemblyReference.cache
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\_32_Kronometre1.Form1.resources
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.csproj.GenerateResource.cache
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.AssemblyInfoInputs.cache
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.AssemblyInfo.cs
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.csproj.CoreCompileInputs.cache
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.dll
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\refint\32-Kronometre1.dll
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.pdb
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\32-Kronometre1.genruntimeconfig.cache
+D:\Udemy C#\32-Kronometre1\32-Kronometre1\obj\Debug\net6.0-windows\ref\32-Kronometre1.dll
